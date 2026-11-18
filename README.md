@@ -1,3 +1,12 @@
+*note from Irsu*
+
+This is an archival project
+
+In the latest development video from the official osu youtube channel, Peppy said he is considering privating the repository, but I do think there is value in people being able to understand how the game works. Although this repository is not going to be the most up to date, especially if peppy does private the official repository, feel free to sniff through the repository and study the code, just please do not bother peppy with your PRs. Or me. I dont do PRs here bc this is archival, not continued development
+
+Under here is the original readme. Do note that if peppy privates the repo, some links will break
+
+
 <p align="center">
   <img width="500" alt="osu! logo" src="assets/lazer.png">
 </p>
